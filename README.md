@@ -12,5 +12,5 @@
 
 Here are some ideas to get you started:
 
-- 📖  Blog: https://nhcuongng.github.io/
-- ⚡  Fun fact: Huge fan of Doraemon
+- 📕 Blog: https://nhcuongng.github.io/
+- ⚡ Fun fact: Huge fan of Doraemon
