@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**nhcuongng/nhcuongng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img align='right' src='./assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+  I am Cuong Nguyen Huu, JS developer
+
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nhcuongng)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📖 Blog: https://nhcuongng.github.io/
+- ⚡ Fun fact: Huge fan of Doraemon
