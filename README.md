@@ -14,3 +14,4 @@ Here are some information about me:
 
 - 📕 Blog: https://nhcuongng.github.io/
 - ⚡ Fun fact: Huge fan of Doraemon
+- 📫 Contact to me: cuong.nguyenhuu1997@gmail.com
